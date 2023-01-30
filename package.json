@@ -1,0 +1,23 @@
+{
+  "name": "mikser-io-socket",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almero-digital-marketing/mikser-io-socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almero-digital-marketing/mikser-io-socket/issues"
+  },
+  "homepage": "https://github.com/almero-digital-marketing/mikser-io-socket#readme",
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  }
+}
