@@ -1,6 +1,6 @@
 {
-  "name": "mikser-io-socket",
-  "version": "1.0.1",
+  "name": "mikser-io-subscribe",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/almero-digital-marketing/mikser-io-socket.git"
+    "url": "git+https://github.com/almero-digital-marketing/mikser-io-subscribe.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/almero-digital-marketing/mikser-io-socket/issues"
+    "url": "https://github.com/almero-digital-marketing/mikser-io-subscribe/issues"
   },
-  "homepage": "https://github.com/almero-digital-marketing/mikser-io-socket#readme",
-  "dependencies": {
+  "homepage": "https://github.com/almero-digital-marketing/mikser-io-subscribe#readme",
+  "peerDependencies": {
     "socket.io": "^4.5.4"
   }
 }
